@@ -94,7 +94,7 @@
 			<scope>runtime</scope>
 		</dependency>
 
-		<!-- JWT JSON serializer (Jackson) -->
+		<!-- JWT JSON serializer (Jackson)  -->
 		<dependency>
 			<groupId>io.jsonwebtoken</groupId>
 			<artifactId>jjwt-jackson</artifactId>
